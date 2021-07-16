@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Maps</string>
     <string name="title_activity_maps">Map</string>
+    <string name="no_location_data_provided">no data</string>
+    <string name="no_geocoder_available">no geoder</string>
+    <string name="no_location_detected">no location detected</string>
+    <string name="permission_rationale">permission rational</string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalid lat and long used</string>
+    <string name="address_found">adreess found</string>
 </resources>
